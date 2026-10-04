@@ -14,10 +14,10 @@ CONVERSATION_CONTROLS=2
 
 VOLUME=1.0
 ```
-AUTH_TOKEN,CT0はX画面で開発者ツールを開き、アプリケーション→CookieのAUTH_TOKEN,CT0を貼り付けてください。
-VIDEO_FILEは再生したいビデオのファイル名を入力。
-SPACE_TITLEはスペース名を入力してください。
-CONVERSATION_CONTROLESは0は自分のみ発言可能、1は招待されたユーザーのみ発言可能、2は誰でも発言可能です。
+AUTH_TOKEN,CT0はX画面で開発者ツールを開き、アプリケーション→CookieのAUTH_TOKEN,CT0を貼り付けてください。<br>
+VIDEO_FILEは再生したいビデオのファイル名を入力。<br>
+SPACE_TITLEはスペース名を入力してください。<br>
+CONVERSATION_CONTROLESは0は自分のみ発言可能、1は招待されたユーザーのみ発言可能、2は誰でも発言可能です。<br>
 VOLUMEは任意の音量（普通は1.0）に調整してください。
 # 実行
 ターミナルで```python main.py```と実行してください。<br>
