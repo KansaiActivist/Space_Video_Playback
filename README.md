@@ -1,0 +1,2 @@
+# Space_Video_Playback
+Twiforkを使用しXのスペース機能で任意の音声、動画ファイルを再生する。
